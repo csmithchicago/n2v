@@ -16,4 +16,6 @@ docs/build/
 *.h5
 *.zip
 *.tfevents.*
-config.json
+config.jsonexamples/2D/data/
+examples/3D/data/
+examples/2D/data/
